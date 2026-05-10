@@ -1,0 +1,100 @@
+[data-theme="dark"] .preview-content pre {
+  background: #2d2d2d;
+}
+
+[data-theme="dark"] .preview-content .hljs {
+  color: #d4d4d4;
+}
+
+[data-theme="dark"] .preview-content .hljs-keyword,
+[data-theme="dark"] .preview-content .hljs-selector-tag,
+[data-theme="dark"] .preview-content .hljs-literal,
+[data-theme="dark"] .preview-content .hljs-section,
+[data-theme="dark"] .preview-content .hljs-link {
+  color: #569cd6;
+}
+
+[data-theme="dark"] .preview-content .hljs-function .hljs-keyword {
+  color: #c586c0;
+}
+
+[data-theme="dark"] .preview-content .hljs-string,
+[data-theme="dark"] .preview-content .hljs-title,
+[data-theme="dark"] .preview-content .hljs-name,
+[data-theme="dark"] .preview-content .hljs-type,
+[data-theme="dark"] .preview-content .hljs-attribute,
+[data-theme="dark"] .preview-content .hljs-symbol,
+[data-theme="dark"] .preview-content .hljs-bullet,
+[data-theme="dark"] .preview-content .hljs-addition,
+[data-theme="dark"] .preview-content .hljs-variable,
+[data-theme="dark"] .preview-content .hljs-template-tag,
+[data-theme="dark"] .preview-content .hljs-template-variable {
+  color: #ce9178;
+}
+
+[data-theme="dark"] .preview-content .hljs-comment,
+[data-theme="dark"] .preview-content .hljs-quote,
+[data-theme="dark"] .preview-content .hljs-deletion,
+[data-theme="dark"] .preview-content .hljs-meta {
+  color: #6a9955;
+}
+
+[data-theme="dark"] .preview-content .hljs-number {
+  color: #b5cea8;
+}
+
+[data-theme="dark"] .preview-content .hljs-built_in {
+  color: #4ec9b0;
+}
+
+.preview-content .hljs {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  overflow-x: auto;
+  font-family: "SF Mono", "Fira Code", "JetBrains Mono", Menlo, Consolas, monospace;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.preview-content .hljs-keyword,
+.preview-content .hljs-selector-tag,
+.preview-content .hljs-literal,
+.preview-content .hljs-section,
+.preview-content .hljs-link {
+  color: #a626a4;
+}
+
+.preview-content .hljs-string,
+.preview-content .hljs-title,
+.preview-content .hljs-name,
+.preview-content .hljs-type,
+.preview-content .hljs-attribute,
+.preview-content .hljs-symbol,
+.preview-content .hljs-bullet,
+.preview-content .hljs-addition,
+.preview-content .hljs-variable,
+.preview-content .hljs-template-tag,
+.preview-content .hljs-template-variable {
+  color: #50a14f;
+}
+
+.preview-content .hljs-comment,
+.preview-content .hljs-quote,
+.preview-content .hljs-deletion,
+.preview-content .hljs-meta {
+  color: #a0a1a7;
+  font-style: italic;
+}
+
+.preview-content .hljs-number {
+  color: #986801;
+}
+
+.preview-content .hljs-built_in {
+  color: #c18401;
+}
+
+.preview-content .hljs-function .hljs-keyword {
+  color: #a626a4;
+}
